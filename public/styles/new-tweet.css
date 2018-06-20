@@ -1,0 +1,29 @@
+main .counter {
+  padding-left: 340px;
+ }
+
+main .tweetLimit {
+  color: red;
+}
+
+.new-tweet {
+  padding: 10px;
+  border: 1px solid lightblue;
+  border-radius: 15px;
+  background-color: lightcyan;
+}
+
+main section h2 {
+  margin: 0px;
+}
+
+main hr {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 1em;
+}
+
+main textarea {
+  width: 100%;
+  height: 60px;
+}

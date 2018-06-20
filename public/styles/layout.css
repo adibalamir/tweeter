@@ -22,4 +22,16 @@ body {
 
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
+ calculating specificity: ID === 100, class === 10, html elements === 1
  */
+
+ * {
+  font-family: 'Roboto Condensed', sans-serif;
+ }
+
+ main {
+  width: 450px;
+  margin: auto;
+  padding: 140px 20px 0px 20px;
+  background-color: white;
+ }
