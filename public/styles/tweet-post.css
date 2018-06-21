@@ -26,6 +26,10 @@
   position: relative;
   bottom: 16px;
   z-index: -1;
+  opacity: 0.5;
+}
+#user-tweets .tweet-options:hover {
+  opacity: 1;
 }
 #user-tweets:hover .tweet-options {
   z-index: 1;
