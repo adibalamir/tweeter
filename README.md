@@ -4,8 +4,8 @@ Tweeter is a simple, single-page Twitter clone that uses jQuery, HTML5 and CSS3.
 
 # Final Product
 
-!["Screenshot of tweet compose box"](https://github.com/adibalamir/tweeter/blob/master/docs/tweet-compose-box.PNG?raw=true)
 !["Screenshot of tweets"](https://github.com/adibalamir/tweeter/blob/master/docs/tweets.PNG?raw=true)
+!["Screenshot of tweet compose box"](https://github.com/adibalamir/tweeter/blob/master/docs/tweet-compose-box.PNG?raw=true)
 
 
 ## Dependencies
