@@ -1,3 +1,4 @@
+/*--CHARACTER COUNTER--*/
 $(document).ready(function() {
   $(".new-tweet textarea").on("keyup", function() {
     let counter = $(".new-tweet .counter");
